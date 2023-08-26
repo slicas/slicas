@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Sou Samuel L. tenho 18 anos e quero ajudar ser útil para alguem fazendo o que eu gosto. Desenvolvedor <strong>FullStack</strong>.<br>
+  Sou Samuel L. tenho 18 anos e quero ser útil para alguem fazendo o que eu gosto. Desenvolvedor <strong>FullStack</strong>.<br>
   Atualmente estudo desenvolvimento web na <a href= "https://portal.ifrn.edu.br/"><strong>IFRN</strong></a>.
 </p>
 
