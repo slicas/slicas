@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: Node.JS, Flask, MySQL, SQLITE3, React.
+  💼 Ferramentas: Express, Flask, MySQL, SQLITE3, React.
 </p>
 
 <p align="left">
