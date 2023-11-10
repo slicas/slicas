@@ -15,7 +15,7 @@
 
 <p align="left">
   <i>
-    💌 Apenas quero que algum projeto meu seja útil para alguem algum dia...
+    💌 Espero quero que algum projeto meu seja útil para alguem algum dia...
   </i>
 </p>
 
