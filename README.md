@@ -27,3 +27,7 @@
   <a href="https://www.instagram.com/liiccas/saved/" alt="Instagram">
   <img width = 32 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"/></a>
 </p>
+<hr>
+<div align="center">
+  <img align = "center" src = "https://i.ibb.co/yNC2KT8/download.png">
+</div>
